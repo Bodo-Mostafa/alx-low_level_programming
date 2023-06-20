@@ -16,7 +16,7 @@ void jack_bauer(void)
 			{
 				for (c = 0; c <= 9; c++)
 				{
-					if (x >= 2 && x >= 4)
+					if (x >= 2 && y >= 4)
 						break;
 					_putchar(x + 48);
 					_putchar(y + 48);
