@@ -7,10 +7,8 @@
  * Return: Always 0 (Success)
 */
 
-void print_numbers(void)
+void print_numbers(int n)
 {
-        int n;
-
         for (n = 0; n <= 9; n++)
 	{
 		_putchar(n + '0');
