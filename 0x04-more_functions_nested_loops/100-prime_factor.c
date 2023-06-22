@@ -3,11 +3,9 @@
 #include <math.h>
 
 /**
- * _sqrt - finds the square root
+ * main - prints the largest prime factor of the number 612852475143
  *
- * @x: input number
- *
- * Return: square root of x
+ * Return: Always 0 (Success)
  *
 */
 
