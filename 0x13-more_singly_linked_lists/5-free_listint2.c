@@ -1,8 +1,3 @@
-/*
- * File: 5-free_listint2.c
- * Auth: Brennan D Baraban
- */
-
 #include "lists.h"
 
 /**
