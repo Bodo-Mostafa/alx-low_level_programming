@@ -4,7 +4,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdio.h>
-#include <stdliv.h>
+#include <stdlib.h>
 #include "main.h"
 
 void check_elf(unsigned char *e_ident);
