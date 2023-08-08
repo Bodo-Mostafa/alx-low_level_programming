@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "mian.h"
+#include "main.h"
 
 /**
  * create_file - function that creates a file.
